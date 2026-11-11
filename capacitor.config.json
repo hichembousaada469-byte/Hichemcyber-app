@@ -1,0 +1,6 @@
+{
+  "appId": "com.hichembousaada.portfolio",
+  "appName": "Hichem Bousaada",
+  "webDir": "app/src/main/assets",
+  "bundledWebRuntime": false
+}
